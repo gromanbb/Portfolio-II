@@ -1,2 +1,8 @@
+#### Portfolio-II
+Homework 17: Update Portfolio Page #2
+---
 # Portfolio-II
-Homework 17: Updated Portfolio Page #2
+
+### Overview
+
+Enhancing my [Portfolio](https://gromanbb.github.io/Portfolio-II/) using JS.
